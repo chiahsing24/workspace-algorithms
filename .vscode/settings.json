@@ -1,3 +1,7 @@
 {
-    "git.ignoreLimitWarning": true
+    "git.ignoreLimitWarning": true,
+    "java.project.sourcePaths": [
+        "Lintcode/lintcode-2208-CreateObjectsAssignValuesToObjectPropertiesAndPrint-[basic]-[naive]",
+        "BasicAlgorithms/Recursion/Factorials"
+    ]
 }
