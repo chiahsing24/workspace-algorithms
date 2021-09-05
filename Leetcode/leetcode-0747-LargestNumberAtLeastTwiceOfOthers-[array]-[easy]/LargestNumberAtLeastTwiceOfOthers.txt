@@ -1,0 +1,7 @@
+Note:
+
+<Brute-Force Solution>
+Should remember to consider when largest equals to the current number
+
+<One-Pass Solution>
+If largest >= (second * 2) -> Ans

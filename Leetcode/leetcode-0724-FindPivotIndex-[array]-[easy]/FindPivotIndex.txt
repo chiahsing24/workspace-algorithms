@@ -1,0 +1,4 @@
+Note:
+
+<Prefix-Sum Solution>
+This question is similar to the two sum
