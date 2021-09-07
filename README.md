@@ -9,3 +9,4 @@ Leetcode-0747-Largest Number At Least Twice of Others-[array]-[easy]
 ### 09/06/2021 - 09/12/2021
 
 Leetcode-0066-Plus One-[array]-[easy]
+Leetcode-0498-DiagonalTraverse-[array]-[medium]
