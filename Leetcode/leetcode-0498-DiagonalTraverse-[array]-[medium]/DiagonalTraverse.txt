@@ -3,6 +3,7 @@ Note:
 <Brute-Force Solution>
 The ordering of if conditions is important:
 
+!Need to consider both shapes, square and rectangle
 When row = -1, column = n . Out of right border rule should have the precedence even though it also satisfies out of top border rule.
 When row = m, column = -1. Out of bottom border rule should have the precedence even though it also satisfies out of left border rule.
 Only in these two special situations , ordering of if conditions matters.
