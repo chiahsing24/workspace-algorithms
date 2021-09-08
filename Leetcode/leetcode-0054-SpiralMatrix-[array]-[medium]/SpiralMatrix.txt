@@ -1,0 +1,4 @@
+Note:
+
+<Brute-Force Solution>
+Every for loop, we should make sure the size of result array is smaller than m * n.
