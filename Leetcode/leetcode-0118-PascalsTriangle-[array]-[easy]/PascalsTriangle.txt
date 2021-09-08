@@ -1,0 +1,4 @@
+Note:
+
+<Brute-Force Solution>
+This question is similar to the two sum

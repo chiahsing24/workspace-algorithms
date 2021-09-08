@@ -1,4 +1,4 @@
 Note:
 
-<PlusOne Solution>
+<Brute-Force Solution>
 Doesn't have to consider digits[i] > 8 on every iteration.
