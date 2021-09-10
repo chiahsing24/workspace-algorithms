@@ -1,0 +1,4 @@
+Note:
+
+<Brute-Force Solution>
+Need to be careful about the boundary condition. What happens when needle is empty? What happens if needle is longer than haystack?
