@@ -1,0 +1,15 @@
+Note:
+
+<Brute-Force Solution>
+The question is asking longest common "pre"fix
+
+Consider scenario like below:
+
+Input:
+["reflower","flow","flight"]
+
+Output:
+"fl"
+
+Expected:
+""
