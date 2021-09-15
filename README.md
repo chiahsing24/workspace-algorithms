@@ -20,3 +20,4 @@ leetcode-0344-ReverseString-[array]-[easy]
 ### 09/13/2021 - 09/19/2021
 
 leetcode-0561-ArrayPartitionI-[array]-[easy]
+leetcode-0167-TwoSumII-InputArrayIsSorted-[array]-[easy]
