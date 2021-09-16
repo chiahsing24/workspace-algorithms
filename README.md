@@ -21,3 +21,4 @@ leetcode-0344-ReverseString-[array]-[easy]
 
 leetcode-0561-ArrayPartitionI-[array]-[easy]
 leetcode-0167-TwoSumII-InputArrayIsSorted-[array]-[easy]
+leetcode-0027-RemoveElement-[array]-[easy]
