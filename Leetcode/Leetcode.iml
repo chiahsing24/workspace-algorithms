@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/leetcode-0001-TwoSum-[array]-[easy]" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/leetcode-0014-LongestCommonPrefix-[string]-[easy]" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/leetcode-0027-RemoveElement-[array]-[easy]" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/leetcode-0028-ImplementStrStr-[string]-[easy]" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/leetcode-0054-SpiralMatrix-[array]-[medium]" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/leetcode-0066-PlusOne-[array]-[easy]" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/leetcode-0067-AddBinary-[string]-[easy]" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/leetcode-0118-PascalsTriangle-[array]-[easy]" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/leetcode-0167-TwoSumII-InputArrayIsSorted-[array]-[easy]" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/leetcode-0344-ReverseString-[array]-[easy]" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/leetcode-0498-DiagonalTraverse-[array]-[medium]" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/leetcode-0561-ArrayPartitionI-[array]-[easy]" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/leetcode-0724-FindPivotIndex-[array]-[easy]" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/leetcode-0747-LargestNumberAtLeastTwiceOfOthers-[array]-[easy]" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

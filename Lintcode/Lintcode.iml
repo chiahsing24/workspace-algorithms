@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/lintcode-2168-PrintableTrigonometricNIneNIneMultiplicationTable-[basic]-[naive]" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lintcode-2175-Rounding-[basic]-[naive]" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lintcode-2176-FindTheMaximumValueOfAnArray-[basic]-[naive]" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lintcode-2182-CalculateTheSumOfAllPositiveIntegersUpToAndIncludingNThatAreDivisibleBy3-[basic]-[naive]" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lintcode-2183-DetermineTheStudent'sAchievementRangeBasedOnTheStudent'sAchievementLevel-[basic]-[naive]" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lintcode-2188-GetTheElementWithIndex1-[basic]-[naive]" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lintcode-2200-CalculateAllLeapYearsFrom1949ToN-[basic]-[naive]" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lintcode-2201-GetTheElementWhoseIndexIsTheLastDigit-[basic]-[naive]" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lintcode-2203-GetTheLengthOfTheString-[basic]-[naive]" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lintcode-2206-GetTheSumOfTheLengthsOfAllStringsInTheStringArray-[basic]-[naive]" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lintcode-2208-CreateObjectsAssignValuesToObjectPropertiesAndPrint-[basic]-[naive]" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
