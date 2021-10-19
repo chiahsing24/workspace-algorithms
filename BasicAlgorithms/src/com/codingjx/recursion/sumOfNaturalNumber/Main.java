@@ -1,4 +1,4 @@
-package com.codingjx.recursion.SumOfNaturalNumber;
+package com.codingjx.recursion.sumOfNaturalNumber;
 
 /**
  * Given a natural number, sum up all the natural number <= n
