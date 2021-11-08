@@ -36,3 +36,4 @@ leetcode-0557-ReverseWordsInAStringIII-[string]-[easy]
 
 lintcode-0549-ClosestNumberInSortedArray-[array]-[easy]
 lintcode-0548-LastPositionOfTarget-[array]-[easy]
+lintcode-0028-SearchA2DMatrix-[array]-[easy]
