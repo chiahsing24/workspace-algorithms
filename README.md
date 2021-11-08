@@ -31,3 +31,8 @@ leetcode-0189-RotateArray-[array]-[easy]
 leetcode-0119-PascalsTriangleII-[array]-[easy]
 leetcode-0151-ReverseWordsInAString-[string]-[medium]
 leetcode-0557-ReverseWordsInAStringIII-[string]-[easy]
+
+### 11/08/2021 - 11/14/2021
+
+lintcode-0549-ClosestNumberInSortedArray-[array]-[easy]
+lintcode-0548-LastPositionOfTarget-[array]-[easy]
