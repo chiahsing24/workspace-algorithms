@@ -53,3 +53,7 @@ lintcode-0038-SearchA2DMatrixII-[array]-[medium]
 lintcode-0600-SmallestRectangleEnclosingBlackPixels-[array]-[hard]
 lintcode-0457-ClassicalBinarySearch-[array]-[easy]
 lintcode-0141-Sqrt(x)-[math]-[easy]
+
+### 11/15/2021 - 11/21/2021
+
+lintcode-0868-MaximumAverageSubarray-[array]-[easy]
