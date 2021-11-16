@@ -57,3 +57,4 @@ lintcode-0141-Sqrt(x)-[math]-[easy]
 ### 11/15/2021 - 11/21/2021
 
 lintcode-0868-MaximumAverageSubarray-[array]-[easy]
+lintcode-0617-MaximumAverageSubarrayII-[array]-[medium]
