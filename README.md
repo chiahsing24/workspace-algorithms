@@ -58,3 +58,4 @@ lintcode-0141-Sqrt(x)-[math]-[easy]
 
 lintcode-0868-MaximumAverageSubarray-[array]-[easy]
 lintcode-0617-MaximumAverageSubarrayII-[array]-[medium]
+lintcode-0586-Sqrt(x)II-[math]-[medium]
