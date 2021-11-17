@@ -5,7 +5,6 @@ public class Solution {
      */
     public int findMin(int[] nums) {
         // write your code here
-        // 不確定需不需要判斷當nums為null時, 該return什麼
         if (nums == null || nums.length == 0) {
             return -1;
         }
@@ -15,14 +14,16 @@ public class Solution {
             int mid = start + (end - start) / 2;
             if (nums[mid] < nums[end]) {
                 end = mid;
-            } else {
+            } else if (nums[mid] > nums[end]) {
                 start = mid;
+            } else {
+                end--;
             }
         }
 
         if (nums[start] < nums[end]) {
             return nums[start];
-        }
+        } 
         return nums[end];
     }
 }
