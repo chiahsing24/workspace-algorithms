@@ -62,3 +62,7 @@ lintcode-0586-Sqrt(x)II-[math]-[medium]
 lintcode-0160-FindMinumumInRotatedSortedArrayII-[array]-[medium]
 lintcode-0063-SearchInRotatedSortedArrayII-[array]-[medium]
 lintcode-0437-CopyBooks-[array]-[medium]
+
+### 11/22/2021 - 11/28/2021
+
+lintcode-0183-WoodCut-[array]-[hard]
