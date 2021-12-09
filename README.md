@@ -66,3 +66,7 @@ lintcode-0437-CopyBooks-[array]-[medium]
 ### 11/22/2021 - 11/28/2021
 
 lintcode-0183-WoodCut-[array]-[hard]
+
+### 12/06/2021 - 12/12/2021
+
+lintcode-0001-A+B-[bit]-[naive]
