@@ -70,3 +70,4 @@ lintcode-0183-WoodCut-[array]-[hard]
 ### 12/06/2021 - 12/12/2021
 
 lintcode-0001-A+B-[bit]-[naive]
+lintcode-0037-Reverse3DigitInteger-[math]-[naive]
