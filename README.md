@@ -71,3 +71,4 @@ lintcode-0183-WoodCut-[array]-[hard]
 
 lintcode-0001-A+B-[bit]-[naive]
 lintcode-0037-Reverse3DigitInteger-[math]-[naive]
+lintcode-1300-BashGame-[math]-[easy]
