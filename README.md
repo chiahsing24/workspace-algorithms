@@ -81,3 +81,5 @@ lintcode-0023-IsAlphanumeric-[utils]-[naive]
 ### 12/13/2021 - 12/19/2021
 
 leetcode-0144-BinaryTreePreorderTraversal-[tree]-[easy]
+leetcode-0094-BinaryTreeInorderTraversal-[tree]-[easy]
+
