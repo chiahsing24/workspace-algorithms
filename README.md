@@ -77,3 +77,7 @@ lintcode-0478-SimpleCalculator-[math]-[naive]
 lintcode-0283-Maxof3Numbers-[math]-[naive]
 lintcode-0145-LowercasetoUppercase-[utils]-[naive]
 lintcode-0023-IsAlphanumeric-[utils]-[naive]
+
+### 12/13/2021 - 12/19/2021
+
+leetcode-0144-BinaryTreePreorderTraversal-[tree]-[easy]
