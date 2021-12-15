@@ -82,4 +82,5 @@ lintcode-0023-IsAlphanumeric-[utils]-[naive]
 
 leetcode-0144-BinaryTreePreorderTraversal-[tree]-[easy]
 leetcode-0094-BinaryTreeInorderTraversal-[tree]-[easy]
-
+leetcode-0145-BinaryTreePostorderTraversal-[tree]-[hard]
+leetcode-0104-MaximumDepthOfBinaryTree-[tree]-[easy]
