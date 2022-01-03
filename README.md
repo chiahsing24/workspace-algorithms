@@ -84,3 +84,7 @@ leetcode-0144-BinaryTreePreorderTraversal-[tree]-[easy]
 leetcode-0094-BinaryTreeInorderTraversal-[tree]-[easy]
 leetcode-0145-BinaryTreePostorderTraversal-[tree]-[hard]
 leetcode-0104-MaximumDepthOfBinaryTree-[tree]-[easy]
+
+## 01/02/2022 - 01/08/2022
+
+leetcode-0101-SymmetricTree-[tree]-[easy]
