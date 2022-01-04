@@ -88,3 +88,4 @@ leetcode-0104-MaximumDepthOfBinaryTree-[tree]-[easy]
 ## 01/02/2022 - 01/08/2022
 
 leetcode-0101-SymmetricTree-[tree]-[easy]
+leetcode-0226-InvertBinaryTree-[tree]-[easy]
