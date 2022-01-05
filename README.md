@@ -89,5 +89,6 @@ leetcode-0104-MaximumDepthOfBinaryTree-[tree]-[easy]
 
 leetcode-0101-SymmetricTree-[tree]-[easy]
 leetcode-0226-InvertBinaryTree-[tree]-[easy]
+leetcode-0617-MergeTwoBinaryTrees-[tree]-[easy]
 
 lintcode-0009-FizzBuzz-[math]-[naive]
