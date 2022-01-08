@@ -93,5 +93,6 @@ leetcode-0617-MergeTwoBinaryTrees-[tree]-[easy]
 leetcode-0001-TwoSum-[array]-[easy]
 leetcode-0217-ContainsDuplicate-[array]-[easy]
 leetcode-0206-ReverseLinkedList-[linkedlist]-[easy]
+leetcode-0125-ValidPalindrome-[string]-[easy]
 
 lintcode-0009-FizzBuzz-[math]-[naive]
