@@ -101,3 +101,5 @@ lintcode-0009-FizzBuzz-[math]-[naive]
 ## 01/09/2022 - 01/15/2022
 
 leetcode-0234-PalindromeLinkedList-[linkedlist]-[easy]
+leetcode-0118-PascalsTriangle-[array]-[easy]
+
