@@ -102,5 +102,6 @@ lintcode-0009-FizzBuzz-[math]-[naive]
 
 leetcode-0234-PalindromeLinkedList-[linkedlist]-[easy]
 leetcode-0118-PascalsTriangle-[array]-[easy]
-leetcode-0590-NaryTreePostorderTraversal-[tree]-[easy]
+leetcode-0590-N-aryTreePostorderTraversal-[tree]-[easy]
 leetcode-0094-BinaryTreeInorderTraversal-[tree]-[easy]
+leetcode-0589-N-aryTreePreorderTraversal-[tree]-[easy]
