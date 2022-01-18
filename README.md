@@ -138,4 +138,5 @@ leetcode-0921-MinimumAddToMakeParenthesesValid-[stack]-[medium]
 leetcode-0104-MaximumDepthOfBinaryTree-[tree]-[easy]
 leetcode-0112-PathSum-[tree]-[easy]
 leetcode-0704-BinarySearch-[array]-[easy]
+leetcode-0709-ToLowerCase-[string]-[easy]
 ```
