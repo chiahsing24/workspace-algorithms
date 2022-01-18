@@ -137,4 +137,5 @@ leetcode-0007-ReverseInteger-[math]-[easy]
 leetcode-0921-MinimumAddToMakeParenthesesValid-[stack]-[medium]
 leetcode-0104-MaximumDepthOfBinaryTree-[tree]-[easy]
 leetcode-0112-PathSum-[tree]-[easy]
+leetcode-0704-BinarySearch-[array]-[easy]
 ```
