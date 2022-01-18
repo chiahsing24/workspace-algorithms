@@ -135,4 +135,5 @@ leetcode-0589-N-aryTreePreorderTraversal-[tree]-[easy]
 leetcode-0009-PalindromeNumber-[math]-[easy]
 leetcode-0007-ReverseInteger-[math]-[easy]
 leetcode-0921-MinimumAddToMakeParenthesesValid-[stack]-[medium]
+leetcode-0104-MaximumDepthOfBinaryTree-[tree-[easy]
 ```
