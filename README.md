@@ -143,3 +143,9 @@ leetcode-0209-MinimumSizeSubarraySum-[array]-[medium]
 leetcode-0328-OddEvenLinkedList-[linkedlist]-[medium]
 leetcode-0278-FirstBadVersion-[iterative]-[easy]
 ```
+
+## 01/23/2022 - 01/29/2022
+
+```
+leetcode-0844-BackspaceStringCompare-[string]-[easy]
+```
