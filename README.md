@@ -149,4 +149,5 @@ leetcode-0278-FirstBadVersion-[iterative]-[easy]
 ```
 leetcode-0844-BackspaceStringCompare-[string]-[easy]
 leetcode-0040-ClimbingStairs-[math]-[easy]
+leetcode-0088-MergeSortedArray-[array]-[easy]
 ```
