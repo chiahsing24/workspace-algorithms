@@ -151,3 +151,9 @@ leetcode-0844-BackspaceStringCompare-[string]-[easy]
 leetcode-0040-ClimbingStairs-[math]-[easy]
 leetcode-0088-MergeSortedArray-[array]-[easy]
 ```
+
+## 01/30/2022 - 02/05/2022
+
+```
+leetcode-0283-MoveZeroes-[array]-[easy]
+```
