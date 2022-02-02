@@ -156,5 +156,6 @@ leetcode-0088-MergeSortedArray-[array]-[easy]
 
 ```
 leetcode-0283-MoveZeroes-[array]-[easy]
+leetcode-0001-TwoSum-[array]-[easy]
 leetcode-0002-AddTwoNumbers-[linkedlist]-[medium]
 ```
