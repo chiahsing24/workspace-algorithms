@@ -165,4 +165,5 @@ leetcode-0002-AddTwoNumbers-[linkedlist]-[medium]
 ```
 leetcode-0448-FindAllNumbersDisappearedInAnArray-[array]-[easy]
 leetcode-0141-LinkedListCycle-[linkedlist]-[easy]
+lintcode-1141-TheMonthsDays-[math]-[easy]
 ```
