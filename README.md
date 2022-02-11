@@ -169,6 +169,7 @@ leetcode-0025-ReverseNodesInKGroup-[linkedlist]-[hard]
 leetcode-0021-MergeTwoSortedLists-[linkedlist]-[easy]
 leetcode-0083-RemoveDuplicatesfromSortedList-[linkedlist]-[easy]
 leetcode-0142-LinkedListCycleII-[linkedlist]-[medium]
+leetcode-0160-IntersectionOfTwoLinkedLists-[linkedlist]-[easy]
 
 lintcode-1141-TheMonthsDays-[math]-[easy]
 lintcode-0766-LeapYear-[math]-[easy]
