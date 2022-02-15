@@ -184,5 +184,6 @@ lintcode-0766-LeapYear-[math]-[easy]
 
 ```
 leetcode-0023-MergeKSortedLists-[linkedlist]-[hard]
+leetcode-0155-MinStack-[stack]-[easy]
 
 ```
