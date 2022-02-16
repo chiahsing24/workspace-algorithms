@@ -186,6 +186,7 @@ lintcode-0766-LeapYear-[math]-[easy]
 **Leetcode**
 leetcode-0023-MergeKSortedLists-[linkedlist]-[hard]
 leetcode-0155-MinStack-[stack]-[easy]
+leetcode-0392-IsSubsequence-[string]-[easy]
 
 **AlgoExpert**
 algoexpert-TwoNumberSum-[array]-[easy]
