@@ -189,6 +189,7 @@ leetcode-0155-MinStack-[stack]-[easy]
 leetcode-0392-IsSubsequence-[string]-[easy]
 leetcode-0100-SameTree-[tree]-[easy]
 leetcode-0101-SymmetricTree-[tree]-[easy]
+leetcode-0339-NestedListWeightSum-[array]-[medium]
 
 **AlgoExpert**
 algoexpert-TwoNumberSum-[array]-[easy]
