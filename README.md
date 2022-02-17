@@ -190,6 +190,7 @@ leetcode-0392-IsSubsequence-[string]-[easy]
 leetcode-0100-SameTree-[tree]-[easy]
 leetcode-0101-SymmetricTree-[tree]-[easy]
 leetcode-0339-NestedListWeightSum-[array]-[medium]
+leetcode-0104-MaximumDepthOfBinaryTree-[tree]-[easy]
 
 **AlgoExpert**
 algoexpert-TwoNumberSum-[array]-[easy]
