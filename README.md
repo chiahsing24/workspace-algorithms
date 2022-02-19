@@ -195,6 +195,7 @@ leetcode-0105-ConstructBinaryTreeFromPreorderAndInorderTraversal-[tree]-[medium]
 leetcode-0657-RobotReturnToOrigin-[string]-[easy]
 leetcode-0232-ImplementQueueUsingStacks-[stack]-[easy]
 leetcode-0102-BinaryTreeLevelOrderTraversal-[tree]-[medium]
+leetcode-0110-BalancedBinaryTree-[tree]-[easy]
 
 **AlgoExpert**
 algoexpert-TwoNumberSum-[array]-[easy]
