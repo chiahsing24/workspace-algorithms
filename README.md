@@ -202,3 +202,13 @@ leetcode-0098-ValidateBinarySearchTree-[tree]-[medium]
 algoexpert-TwoNumberSum-[array]-[easy]
 algoexpert-ValidateSubsequence-[array]-[easy]
 ```
+
+## 02/20/2022 - 02/26/2022
+
+```
+**Leetcode**
+leetcode-0112-PathSum-[array]-[easy]
+
+**AlgoExpert**
+
+```
