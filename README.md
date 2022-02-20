@@ -207,7 +207,8 @@ algoexpert-ValidateSubsequence-[array]-[easy]
 
 ```
 **Leetcode**
-leetcode-0112-PathSum-[array]-[easy]
+leetcode-0112-PathSum-[tree]-[easy]
+leetcode-0113-PathSumII-[tree]-[medium]
 
 **AlgoExpert**
 
