@@ -213,4 +213,8 @@ leetcode-0004-MedianOfTwoSortedArrays-[array]-[hard]
 
 **AlgoExpert**
 
+
+**Lintcode**
+lintcode-0771-DoubleFactorial-[math]-[easy]
+
 ```
