@@ -209,6 +209,7 @@ algoexpert-ValidateSubsequence-[array]-[easy]
 **Leetcode**
 leetcode-0112-PathSum-[tree]-[easy]
 leetcode-0113-PathSumII-[tree]-[medium]
+leetcode-0004-MedianOfTwoSortedArrays-[array]-[hard]
 
 **AlgoExpert**
 
