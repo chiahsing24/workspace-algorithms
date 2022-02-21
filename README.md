@@ -217,5 +217,6 @@ leetcode-0004-MedianOfTwoSortedArrays-[array]-[hard]
 **Lintcode**
 lintcode-0771-DoubleFactorial-[math]-[easy]
 lintcode-1333-ReverseBits-[bits]-[easy]
+lintcode-0297-FindTheMaximum-[array]-[naive]
 
 ```
