@@ -220,5 +220,6 @@ lintcode-1333-ReverseBits-[bits]-[easy]
 lintcode-0297-FindTheMaximum-[array]-[naive]
 lintcode-0451-SwapNodesInPairs-[linkedlist]-[easy]
 lintcode-0140-FastPower-[math]-[medium]
+lintcode-0169-TowerOfHanoi-[dfs]-[medium]
 
 ```
