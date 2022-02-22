@@ -212,6 +212,7 @@ leetcode-0113-PathSumII-[tree]-[medium]
 leetcode-0004-MedianOfTwoSortedArrays-[array]-[hard]
 
 **AlgoExpert**
+algoexpert-SortedSquaredArray-[array]-[easy]
 
 
 **Lintcode**
