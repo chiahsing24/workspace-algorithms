@@ -210,6 +210,7 @@ algoexpert-ValidateSubsequence-[array]-[easy]
 leetcode-0112-PathSum-[tree]-[easy]
 leetcode-0113-PathSumII-[tree]-[medium]
 leetcode-0004-MedianOfTwoSortedArrays-[array]-[hard]
+leetcode-0654-MaximumBinaryTree-[tree]-[medium]
 
 **AlgoExpert**
 algoexpert-SortedSquaredArray-[array]-[easy]
