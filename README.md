@@ -217,6 +217,7 @@ leetcode-0889-ConstructBinaryTreeFromPreorderAndPostorderTraversal-[tree]-[mediu
 
 **AlgoExpert**
 algoexpert-SortedSquaredArray-[array]-[easy]
+algoexpert-TournamentWinner-[array]-[easy]
 
 
 **Lintcode**
