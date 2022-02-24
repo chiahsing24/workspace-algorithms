@@ -213,6 +213,7 @@ leetcode-0004-MedianOfTwoSortedArrays-[array]-[hard]
 leetcode-0654-MaximumBinaryTree-[tree]-[medium]
 leetcode-0105-ConstructBinaryTreeFromPreorderAndInorderTraversal-[tree]-[medium]
 leetcode-0106-ConstructBinaryTreeFromInorderAndPostorderTraversal-[tree]-[medium]
+leetcode-0889-ConstructBinaryTreeFromPreorderAndPostorderTraversal-[tree]-[medium]
 
 **AlgoExpert**
 algoexpert-SortedSquaredArray-[array]-[easy]
