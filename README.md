@@ -229,3 +229,18 @@ lintcode-0140-FastPower-[math]-[medium]
 lintcode-0169-TowerOfHanoi-[dfs]-[medium]
 
 ```
+
+## 02/27/2022 - 03/05/2022
+
+```
+**Leetcode**
+leetcode-0078-Subsets-[tree]-[medium]
+
+
+**AlgoExpert**
+
+
+**Lintcode**
+
+
+```
