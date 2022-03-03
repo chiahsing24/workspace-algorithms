@@ -240,6 +240,7 @@ leetcode-0338-CountingBits-[array]-[easy]
 leetcode-0077-Combinations-[tree]-[medium]
 leetcode-0494-TargetSum-[tree]-[medium]
 leetcode-0046-Permutations-[tree]-[medium]
+leetcode-0047-PermutationsII-[tree]-[medium]
 
 **AlgoExpert**
 
