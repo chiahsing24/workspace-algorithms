@@ -242,6 +242,7 @@ leetcode-0494-TargetSum-[tree]-[medium]
 leetcode-0046-Permutations-[tree]-[medium]
 leetcode-0047-PermutationsII-[tree]-[medium]
 leetcode-0060-PermutationSequence-[tree]-[hard]
+leetcode-0526-BeautifulArrangement-[tree]-[medium]
 
 **AlgoExpert**
 
