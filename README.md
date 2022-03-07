@@ -249,5 +249,19 @@ leetcode-0526-BeautifulArrangement-[tree]-[medium]
 
 **Lintcode**
 
+```
+
+## 03/06/2022 - 03/12/2022
+
+```
+**Leetcode**
+leetcode-0144-BinaryTreePreorderTraversal-[tree]-[easy]
+leetcode-0094-BinaryTreeInorderTraversal-[tree]-[easy]
+leetcode-0145-BinaryTreePostorderTraversal-[tree]-[hard]
+
+**AlgoExpert**
+
+
+**Lintcode**
 
 ```
