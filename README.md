@@ -258,6 +258,7 @@ leetcode-0526-BeautifulArrangement-[tree]-[medium]
 leetcode-0144-BinaryTreePreorderTraversal-[tree]-[easy]
 leetcode-0094-BinaryTreeInorderTraversal-[tree]-[easy]
 leetcode-0145-BinaryTreePostorderTraversal-[tree]-[hard]
+leetcode-0005-LongestPalindromicSubstring-[string]-[medium]
 
 **AlgoExpert**
 
