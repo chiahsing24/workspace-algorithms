@@ -266,6 +266,7 @@ leetcode-0455-AssignCookies-[array]-[easy]
 leetcode-0135-Candy-[array]-[hard]
 leetcode-0144-BinaryTreePreorderTraversal-[tree]-[easy]
 leetcode-0009-PalindromeNumber-[math]-[easy]
+leetcode-0257-BinaryTreePaths-[tree]-[easy]
 
 **AlgoExpert**
 
