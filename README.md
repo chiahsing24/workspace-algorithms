@@ -273,5 +273,6 @@ leetcode-0009-PalindromeNumber-[math]-[easy]
 **Lintcode**
 lintcode-0037-Reverse3DigitInteger-[math]-[naive]
 lintcode-0001-A+B-[bit]-[naive]
+lintcode-0479-SecondMaxOfArray-[array]-[easy]
 
 ```
