@@ -197,7 +197,6 @@ leetcode-0232-ImplementQueueUsingStacks-[stack]-[easy]
 leetcode-0102-BinaryTreeLevelOrderTraversal-[tree]-[medium]
 leetcode-0110-BalancedBinaryTree-[tree]-[easy]
 leetcode-0098-ValidateBinarySearchTree-[tree]-[medium]
-leetcode-0110-BalancedBinaryTree-[tree]-[easy]
 
 **AlgoExpert**
 algoexpert-TwoNumberSum-[array]-[easy]
@@ -268,6 +267,7 @@ leetcode-0135-Candy-[array]-[hard]
 leetcode-0144-BinaryTreePreorderTraversal-[tree]-[easy]
 leetcode-0009-PalindromeNumber-[math]-[easy]
 leetcode-0257-BinaryTreePaths-[tree]-[easy]
+leetcode-0110-BalancedBinaryTree-[tree]-[easy]
 
 **AlgoExpert**
 
