@@ -271,5 +271,6 @@ leetcode-0144-BinaryTreePreorderTraversal-[tree]-[easy]
 
 **Lintcode**
 lintcode-0037-Reverse3DigitInteger-[math]-[naive]
+lintcode-0001-A+B-[bit]-[naive]
 
 ```
