@@ -276,5 +276,6 @@ lintcode-0037-Reverse3DigitInteger-[math]-[naive]
 lintcode-0001-A+B-[bit]-[naive]
 lintcode-0479-SecondMaxOfArray-[array]-[easy]
 lintcode-0521-RemoveDuplicateNumbersInArray-[array]-[easy]
+lintcode-0596-MinimumSubtree-[tree]-[easy]
 
 ```
