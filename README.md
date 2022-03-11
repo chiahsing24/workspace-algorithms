@@ -268,6 +268,7 @@ leetcode-0144-BinaryTreePreorderTraversal-[tree]-[easy]
 leetcode-0009-PalindromeNumber-[math]-[easy]
 leetcode-0257-BinaryTreePaths-[tree]-[easy]
 leetcode-0110-BalancedBinaryTree-[tree]-[easy]
+leetcode-0236-LowestCommonAncestorOfABinaryTree-[tree]-[medium]
 
 **AlgoExpert**
 
