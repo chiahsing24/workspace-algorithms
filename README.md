@@ -279,5 +279,7 @@ lintcode-0479-SecondMaxOfArray-[array]-[easy]
 lintcode-0521-RemoveDuplicateNumbersInArray-[array]-[easy]
 lintcode-0596-MinimumSubtree-[tree]-[easy]
 lintcode-0241-StringToInteger-[string]-[naive]
+lintcode-0146-LowercasetoUppercaseII-[string]-[naive]
+lintcode-0597-SubtreeWithMaximumAverage-[tree]-[easy]
 
 ```
