@@ -272,6 +272,7 @@ leetcode-0236-LowestCommonAncestorOfABinaryTree-[tree]-[medium]
 leetcode-0114-FlattenBinaryTreeToLinkedList-[tree]-[medium]
 leetcode-0426-ConvertBinarySearchTreeToSortedDoublyLinkedList-[tree]-[medium]
 leetcode-0111-MinimumDepthOfBinaryTree-[tree]-[easy]
+leetcode-298-BinaryTreeLongestConsecutiveSequence-[tree]-[medium]
 
 **AlgoExpert**
 
