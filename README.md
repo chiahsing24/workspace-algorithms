@@ -271,6 +271,7 @@ leetcode-0110-BalancedBinaryTree-[tree]-[easy]
 leetcode-0236-LowestCommonAncestorOfABinaryTree-[tree]-[medium]
 leetcode-0114-FlattenBinaryTreeToLinkedList-[tree]-[medium]
 leetcode-0426-ConvertBinarySearchTreeToSortedDoublyLinkedList-[tree]-[medium]
+leetcode-0111-MinimumDepthOfBinaryTree-[tree]-[easy]
 
 **AlgoExpert**
 
