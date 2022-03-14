@@ -289,3 +289,17 @@ lintcode-0146-LowercasetoUppercaseII-[string]-[naive]
 lintcode-0597-SubtreeWithMaximumAverage-[tree]-[easy]
 
 ```
+
+## 03/13/2022 - 03/19/2022
+
+```
+**Leetcode**
+leetcode-0297-SerializeAndDeserializeBinaryTree-[tree]-[hard]
+
+**AlgoExpert**
+
+
+**Lintcode**
+
+
+```
