@@ -303,6 +303,6 @@ leetcode-0133-CloneGraph-[graph]-[medium]
 **Lintcode**
 lintcode-0618-SearchGraphNodes-[graph]-[medium]
 lintcode-0127-TopologicalSorting-[graph]-[medium]
-
+lintcode-0433-NumberOfIslands-[array]-[medium]
 
 ```
