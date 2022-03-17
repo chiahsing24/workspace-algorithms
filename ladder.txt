@@ -1,0 +1,253 @@
+1 - strStr & Coding Style
+	
+	Required:
+	13. strStr 
+	
+	Optional:
+	18. Subsets II Medium
+	17. Subsets Medium
+	594. strStr II 
+	
+	Related:
+	16. Permutations II Medium
+	15. Permutations 
+	
+ 2 - Binary Search
+ 
+	Required:
+	459. Closest Number in Sorted Array Easy
+	458. Last Position of Target Easy
+	28. Search a 2D Matrix Easy
+	585. Maximum Number in Mountain Sequence Medium
+	447. Search in a Big Sorted Array Medium
+	159. Find Minimum in Rotated Sorted Array Medium
+	75. Find Peak Element Medium
+	74. First Bad Version Medium
+	62. Search in Rotated Sorted Array 
+	
+	Optional:
+	462. Total Occurrence of Target Easy
+	254. Drop Eggs Easy
+	14. First Position of Target Easy
+	460. K Closest Numbers In Sorted Array Medium
+	414. Divide Two Integers Medium
+	61. Search for a Range Medium
+	38. Search a 2D Matrix II Medium
+	600. Smallest Rectangle Enclosing Black Pixels 
+	
+	Related:
+	457.Classical Binary Search Easy
+	141. Sqrt(x) Easy
+	617. Maximum Average Subarray Medium
+	586. Sqrt(x) II Medium
+	160. Find Minimum in Rotated Sorted Array II Medium
+	63. Search in Rotated Sorted Array II Medium
+	437. Copy Books Hard
+	183. Wood Cut 
+	
+	
+3 - Binary Tree & Divide Conquer
+
+	Required:
+	597. Subtree with Maximum Average Easy
+	596. Minimum Subtree Easy
+	480. Binary Tree Paths Easy
+	453. Flatten Binary Tree to Linked List Easy
+	97. Maximum Depth of Binary Tree Easy
+	93. Balanced Binary Tree Easy
+	67. Binary Tree Inorder Traversal Easy
+	66. Binary Tree Preorder Traversal Easy
+	578. Lowest Common Ancestor III Medium
+	95. Validate Binary Search Tree 	
+	
+	Optional:
+	595. Binary Tree Longest Consecutive Sequence Easy
+	376. Binary Tree Path Sum Easy
+	474. Lowest Common Ancestor II Easy
+	246. Binary Tree Path Sum II Easy
+	68. Binary Tree Postorder Traversal Easy
+	619. Binary Tree Longest Consecutive Sequence III Medium
+	614. Binary Tree Longest Consecutive Sequence II Medium
+	475. Binary Tree Maximum Path Sum II Medium
+	448. Inorder Successor in Binary Search Tree Medium
+	378. Convert Binary Search Tree to Doubly Linked List Medium
+	472. Binary Tree Path Sum III 
+	
+	Related:
+	155. Minimum Depth of Binary Tree Easy
+	88. Lowest Common Ancestor 
+	
+4 - Breadth First Search
+
+	Required:
+	433. Number of Islands Easy
+	69. Binary Tree Level Order Traversal Easy
+	616. Course Schedule II Medium
+	618. Search Graph Nodes Medium
+	611. Knight Shortest Path Medium
+	598. Zombie in Matrix Medium
+	178. Graph Valid Tree Medium
+	137. Clone Graph Medium
+	7. Binary Tree Serialization Medium
+	573. Build Post Office II 
+	
+	Optional:
+	242. Convert Binary Tree to Linked Lists by Depth Easy
+	624. Remove Substrings Medium
+	605. Sequence Reconstruction Medium
+	531. Six Degrees Medium
+	127. Topological Sorting Medium
+	120. Word Ladder 
+	
+	Related:
+	615. Course Schedule Medium
+	431. Connected Component in Undirected Graph Medium
+	71. Binary Tree Zigzag Level Order Traversal Medium
+	70. Binary Tree Level Order Traversal II Medium
+	600. Smallest Rectangle Enclosing Black Pixels Hard
+	574. Build Post Office Hard
+	434. Number of Islands II 
+	
+5 - Depth First Search
+
+	Required:
+	136. Palindrome Partitioning Medium
+	153. Combination Sum II Medium
+	135. Combination Sum Medium
+	18. Subsets II Medium
+	16. Permutations II Medium
+	15. Permutations Medium
+	121. Word Ladder II 
+	
+	Optional:
+	120. Word Ladder Medium
+	52. Next Permutation Medium
+	51. Previous Permutation Medium
+	582. Word Break II 
+	
+	Related:
+	211. String Permutation Easy
+	197. Permutation Index Easy
+	10. String Permutation II Medium
+	190. Next Permutation II Medium
+	198. Permutation Index II Medium
+	107. Word Break Medium
+	108. Palindrome Partitioning II 
+	
+6 - Linked List & Array
+
+	Required:
+	599. Insert into a Cyclic Sorted List Easy
+	165. Merge Two Sorted Lists Easy
+	138. Subarray Sum Easy
+	41. Maximum Subarray Easy
+	139. Subarray Sum Closest Medium
+	105. Copy List with Random Pointer Medium
+	102. Linked List Cycle Medium
+	98. Sort List Medium
+	450. Reverse Nodes in k-Group Hard
+	65. Median of two Sorted Arrays 
+	
+	Optional:
+	548. Intersection of Two Arrays II Easy
+	547. Intersection of Two Arrays Easy
+	96. Partition List Easy
+	64. Merge Sorted Array Easy
+	6. Merge Two Sorted Arrays Easy
+	103. Linked List Cycle II 
+	
+	Related:
+	41. Maximum Subarray Easy
+	620. Maximum Subarray IV Medium
+	617. Maximum Average Subarray Medium
+	191. Maximum Product Subarray Medium
+	45. Maximum Subarray Difference Medium
+	42. Maximum Subarray II Medium
+	621. Maximum Subarray V Hard
+	43. Maximum Subarray III 
+	
+7 - Two Pointers
+
+	Required:
+	607. Two Sum - Data structure design Easy
+	521. Remove Duplicate Numbers in Array Easy
+	608. Two Sum - Input array is sorted Medium
+	609. Two Sum - Less than or equal to target Medium
+	587. Two Sum - Unique pairs Medium
+	533. Two Sum - Closest to target Medium
+	148. Sort Colors Medium
+	143. Sort Colors II Medium
+	57. 3Sum Medium
+	31. Partition Array 
+	
+	Optional:
+	604. Window Sum Easy
+	539. Move Zeroes Easy
+	415. Valid Palindrome Easy
+	56. Two Sum Easy
+	625. Partition Array II Medium
+	610. Two Sum - Difference equals to target Medium
+	443. Two Sum - Greater than target Medium
+	461. Kth Smallest Numbers in Unsorted Array Medium
+	382. Triangle Count Medium
+	59. 3Sum Closest Medium
+	58. 4Sum 
+	
+	Related:
+	
+	
+8 - Data Structure
+
+	Required:
+	128. Hash Function Easy
+	613. High Five Medium
+	612. K Closest Points Medium
+	606. Kth Largest Element II Medium
+	544. Top k Largest Numbers Medium
+	129. Rehashing Medium
+	104. Merge k Sorted Lists Medium
+	4. Ugly Number II Medium
+	594. strStr II Hard
+	134. LRU Cache 
+	
+	Optional:
+	601. Flatten 2D Vector Medium
+	545. Top k Largest Numbers II Medium
+	486. Merge k Sorted Arrays Medium
+	471. Top K Frequent Words Medium
+	130. Heapify Medium
+	124. Longest Consecutive Sequence 
+	
+	Related:
+	551. Nested List Weight Sum Easy
+	494. Implement Stack by Two Queues Easy
+	575. Expression Expand Medium
+	541. Zigzag Iterator II Medium
+	540. Zigzag Iterator Medium
+	528. Flatten Nested List Iterator Medium
+	24. LFU Cache 
+	
+ 9 - Dynamic Programming
+ 
+	Required:
+	115. Unique Paths II Easy
+	114. Unique Paths Easy
+	111. Climbing Stairs Easy
+	110. Minimum Path Sum Easy
+	109. Triangle Easy
+	603. Largest Divisible Subset Medium
+	611. Knight Shortest Path Medium
+	513. Perfect Squares Medium
+	116. Jump Game Medium
+	76. Longest Increasing Subsequence 
+	
+	Optional:
+	272. Climbing Stairs II Easy
+	630. Knight Shortest Path II Medium
+	117. Jump Game II Medium
+	602. Russian Doll Envelopes Hard
+	622. Frog Jump 
+	
+	Related:
+	254. Drop Eggs Easy
+	584. Drop Eggs II 
