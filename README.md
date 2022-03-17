@@ -297,6 +297,7 @@ lintcode-0597-SubtreeWithMaximumAverage-[tree]-[easy]
 leetcode-0297-SerializeAndDeserializeBinaryTree-[tree]-[hard]
 leetcode-0133-CloneGraph-[graph]-[medium]
 leetcode-0127-WordLadder-[array]-[hard]
+leetcode-0039-CombinationSum-[array]-[medium]
 
 **AlgoExpert**
 
