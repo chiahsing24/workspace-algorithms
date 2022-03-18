@@ -300,8 +300,9 @@ leetcode-0127-WordLadder-[array]-[hard]
 leetcode-0039-CombinationSum-[array]-[medium]
 leetcode-0040-CombinationSumII-[array]-[medium]
 leetcode-0131-PalindromePartitioning-[array]-[medium]
-leetcode-0046-Permutations-[tree]-[medium]
-leetcode-0047-PermutationsII-[tree]-[medium]
+leetcode-0046-Permutations-[array]-[medium]
+leetcode-0047-PermutationsII-[array]-[medium]
+leetcode-0051-NQueens-[array]-[hard]
 
 **AlgoExpert**
 
