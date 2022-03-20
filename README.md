@@ -305,6 +305,7 @@ leetcode-0047-PermutationsII-[array]-[medium]
 leetcode-0051-NQueens-[array]-[hard]
 leetcode-0126-WordLadderII-[array]-[hard]
 leetcode-0206-ReverseLinkedList-[linkedlist]-[easy]
+leetcode-0025-ReverseNodesInKGroup-[linkedlist]-[hard]
 
 **AlgoExpert**
 
