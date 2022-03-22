@@ -324,6 +324,7 @@ lintcode-0611-KnightShortestPath-[graph]-[medium]
 **Leetcode**
 leetcode-0707-DesignLinkedList-[linkedlist]-[medium]
 leetcode-0138-CopyListWithRandomPointer-[linkedlist]-[medium]
+leetcode-0141-LinkedListCycle-[linkedlist]-[easy]
 
 **AlgoExpert**
 
