@@ -327,6 +327,7 @@ leetcode-0138-CopyListWithRandomPointer-[linkedlist]-[medium]
 leetcode-0141-LinkedListCycle-[linkedlist]-[easy]
 leetcode-0142-LinkedListCycleII-[linkedlist]-[medium]
 leetcode-0148-SortList-[linkedlist]-[medium]
+leetcode-0349-IntersectionOfTwoArrays-[linkedlist]-[easy]
 
 **AlgoExpert**
 
