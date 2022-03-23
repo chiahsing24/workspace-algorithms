@@ -335,6 +335,7 @@ leetcode-0283-MoveZeroes-[array]-[easy]
 
 
 **Lintcode**
+lintcode-0521-RemoveDuplicateNumbersInArray-[array]-[easy]
 
 
 ```
