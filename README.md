@@ -329,6 +329,7 @@ leetcode-0142-LinkedListCycleII-[linkedlist]-[medium]
 leetcode-0148-SortList-[linkedlist]-[medium]
 leetcode-0349-IntersectionOfTwoArrays-[linkedlist]-[easy]
 leetcode-1469-FindAllTheLonelyNodes-[tree]-[easy]
+leetcode-0283-MoveZeroes-[array]-[easy]
 
 **AlgoExpert**
 
