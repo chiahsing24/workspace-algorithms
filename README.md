@@ -339,6 +339,6 @@ leetcode-0170-TwoSumIII-DataStructureDesign-[array]-[easy]
 
 **Lintcode**
 lintcode-0521-RemoveDuplicateNumbersInArray-[array]-[easy]
-
+lintcode-0587-TwoSumUniquePairs-[array]-[medium]
 
 ```
