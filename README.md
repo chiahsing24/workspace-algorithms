@@ -330,6 +330,9 @@ leetcode-0148-SortList-[linkedlist]-[medium]
 leetcode-0349-IntersectionOfTwoArrays-[linkedlist]-[easy]
 leetcode-1469-FindAllTheLonelyNodes-[tree]-[easy]
 leetcode-0283-MoveZeroes-[array]-[easy]
+leetcode-0001-TwoSum-[array]-[easy]
+leetcode-0167-TwoSumII-InputArrayIsSorted-[array]-[easy]
+leetcode-0170-TwoSumIII-DataStructureDesign-[array]-[easy]
 
 **AlgoExpert**
 
