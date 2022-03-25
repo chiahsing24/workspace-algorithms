@@ -333,6 +333,7 @@ leetcode-0283-MoveZeroes-[array]-[easy]
 leetcode-0001-TwoSum-[array]-[easy]
 leetcode-0167-TwoSumII-InputArrayIsSorted-[array]-[easy]
 leetcode-0170-TwoSumIII-DataStructureDesign-[array]-[easy]
+leetcode-0015-3Sum-[array]-[medium]
 
 **AlgoExpert**
 
