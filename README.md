@@ -342,5 +342,6 @@ leetcode-0202-HappyNumber-[math]-[easy]
 **Lintcode**
 lintcode-0521-RemoveDuplicateNumbersInArray-[array]-[easy]
 lintcode-0587-TwoSumUniquePairs-[array]-[medium]
+lintcode-0382-TriangleCount-[array]-[medium]
 
 ```
