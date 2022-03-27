@@ -335,6 +335,7 @@ leetcode-0167-TwoSumII-InputArrayIsSorted-[array]-[easy]
 leetcode-0170-TwoSumIII-DataStructureDesign-[array]-[easy]
 leetcode-0015-3Sum-[array]-[medium]
 leetcode-0202-HappyNumber-[math]-[easy]
+leetcode-0016-3SumClosest-[array]-[easy]
 
 **AlgoExpert**
 
