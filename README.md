@@ -344,5 +344,6 @@ lintcode-0521-RemoveDuplicateNumbersInArray-[array]-[easy]
 lintcode-0587-TwoSumUniquePairs-[array]-[medium]
 lintcode-0382-TriangleCount-[array]-[medium]
 lintcode-0609-TwoSumLessThanOrEqualToTarget-[array]-[medium]
+lintcode-0533-TwoSumClosestToTarget-[array]-[medium]
 
 ```
