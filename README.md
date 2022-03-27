@@ -348,3 +348,17 @@ lintcode-0609-TwoSumLessThanOrEqualToTarget-[array]-[medium]
 lintcode-0533-TwoSumClosestToTarget-[array]-[medium]
 
 ```
+
+## 03/27/2022 - 04/02/2022
+
+```
+**Leetcode**
+leetcode-0018-4Sum-[array]-[medium]
+
+**AlgoExpert**
+
+
+**Lintcode**
+
+
+```
