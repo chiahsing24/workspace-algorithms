@@ -393,5 +393,6 @@ leetcode-0005-LongestPalindromicSubstring-[string]-[medium]
 **Lintcode**
 lintcode-0014-FirstPositionofTarget-[array]-[easy]
 lintcode-0458-LastPositionOfTarget-[array]-[easy]
+lintcode-0074-FirstBadVersion-[array]-[medium]
 
 ```
