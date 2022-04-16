@@ -388,6 +388,7 @@ leetcode-0005-LongestPalindromicSubstring-[string]-[medium]
 
 
 **AlgoExpert**
+algoexpert-SortedSquaredArray-[array]-[easy]
 
 
 **Lintcode**
