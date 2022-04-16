@@ -366,7 +366,7 @@ lintcode-0031-PartitionArray-[array]-[medium]
 
 ```
 
-## 04/03/2022 - 04/092022
+## 04/03/2022 - 04/09/2022
 
 ```
 **Leetcode**
@@ -377,6 +377,21 @@ leetcode-0005-LongestPalindromicSubstring-[string]-[medium]
 
 
 **Lintcode**
+
+
+```
+
+## 04/10/2022 - 04/16/2022
+
+```
+**Leetcode**
+
+
+**AlgoExpert**
+
+
+**Lintcode**
+lintcode-0014-FirstPositionofTarget-[array]-[easy]
 
 
 ```
