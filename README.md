@@ -407,6 +407,7 @@ lintcode-0074-FirstBadVersion-[array]-[medium]
 **AlgoExpert**
 lintcode-0447-SearchInABigSortedArray-[array]-[medium]
 lintcode-0159-FindMinumumInRotatedSortedArray-[array]-[medium]
+lintcode-0585-MaximumNumberInMountainSequence-[array]-[medium]
 
 
 **Lintcode**
