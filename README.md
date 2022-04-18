@@ -397,3 +397,18 @@ lintcode-0458-LastPositionOfTarget-[array]-[easy]
 lintcode-0074-FirstBadVersion-[array]-[medium]
 
 ```
+
+## 04/17/2022 - 04/23/2022
+
+```
+**Leetcode**
+
+
+**AlgoExpert**
+lintcode-0447-SearchInABigSortedArray-[array]-[medium]
+
+
+**Lintcode**
+
+
+```
