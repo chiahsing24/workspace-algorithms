@@ -414,3 +414,18 @@ lintcode-0585-MaximumNumberInMountainSequence-[array]-[medium]
 
 
 ```
+
+## 04/24/2022 - 04/30/2022
+
+```
+**Leetcode**
+lintcode-0078-FindPeakElement-[array]-[medium]
+
+
+**AlgoExpert**
+
+
+**Lintcode**
+
+
+```
