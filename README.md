@@ -436,6 +436,7 @@ lintcode-0078-FindPeakElement-[array]-[medium]
 **Leetcode**
 leetcode-0217-ContainsDuplicate-[array]-[easy]
 leetcode-0242-ValidAnagram-[array]-[easy]
+leetcode-0001-TwoSum-[array]-[easy]
 
 **AlgoExpert**
 
