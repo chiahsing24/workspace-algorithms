@@ -430,11 +430,12 @@ lintcode-0078-FindPeakElement-[array]-[medium]
 
 ```
 
-## 04/24/2022 - 04/30/2022
+## 11/06/2022 - 11/12/2022
 
 ```
 **Leetcode**
 leetcode-0217-ContainsDuplicate-[array]-[easy]
+leetcode-0242-ValidAnagram-[array]-[easy]
 
 **AlgoExpert**
 
