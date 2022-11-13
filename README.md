@@ -433,13 +433,8 @@ lintcode-0078-FindPeakElement-[array]-[medium]
 ## 11/06/2022 - 11/12/2022
 
 ```
-**Leetcode**
 leetcode-0217-ContainsDuplicate-[array]-[easy]
 leetcode-0242-ValidAnagram-[array]-[easy]
 leetcode-0001-TwoSum-[array]-[easy]
-
-**AlgoExpert**
-
-**Lintcode**
-
+leetcode-0049-GroupAnagrams-[map]-[easy]
 ```
