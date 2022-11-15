@@ -441,3 +441,9 @@ leetcode-0347-TopKFrequentElements-[map]-[medium]
 leetcode-0238-ProductOfArrayExceptSelf-[array]-[medium]
 leetcode-0271-EncodeAndDecodeStrings-[string]-[medium]
 ```
+
+## 11/13/2022 - 11/19/2022
+
+```
+leetcode-0128-LongestConsecutiveSequence-[array]-[medium]
+```
