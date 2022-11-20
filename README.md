@@ -447,4 +447,5 @@ leetcode-0271-EncodeAndDecodeStrings-[string]-[medium]
 ```
 leetcode-0128-LongestConsecutiveSequence-[array]-[medium]
 leetcode-0125-ValidPalindrome-[string]-[easy]
+leetcode-0175-CombineTwoTables-[sql]-[easy]
 ```
