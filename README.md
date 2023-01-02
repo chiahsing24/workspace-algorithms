@@ -449,3 +449,9 @@ leetcode-0128-LongestConsecutiveSequence-[array]-[medium]
 leetcode-0125-ValidPalindrome-[string]-[easy]
 leetcode-0175-CombineTwoTables-[sql]-[easy]
 ```
+
+## 01/01/2023 - 01/07/2023
+
+```
+leetcode-1480-RunningSumOf1dArray-[array]-[easy]leetcode-0125-ValidPalindrome-[string]-[easy]
+```
