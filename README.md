@@ -454,4 +454,5 @@ leetcode-0175-CombineTwoTables-[sql]-[easy]
 
 ```
 leetcode-1480-RunningSumOf1dArray-[array]-[easy]leetcode-0125-ValidPalindrome-[string]-[easy]
+leetcode-1672-RichestCustomerWealth-[array]-[easy]
 ```
