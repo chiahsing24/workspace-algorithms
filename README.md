@@ -457,4 +457,5 @@ leetcode-1480-RunningSumOf1dArray-[array]-[easy]leetcode-0125-ValidPalindrome-[s
 leetcode-1672-RichestCustomerWealth-[array]-[easy]
 leetcode-0412-FizzBuzz-[array]-[easy]
 leetcode-1342-NumberOfStepsToReduceANumberToZero-[math]-[easy]
+leetcode-0876-MiddleOfTheLinkedList-[linkedlist]-[easy]
 ```
