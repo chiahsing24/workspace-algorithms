@@ -1,3 +1,8 @@
+/**
+ *  Time: O(n)
+ *  Space: O(n)
+ */
+
 class Solution {
     public int[] runningSum(int[] nums) {
         int[] runningSum = new int[nums.length];
