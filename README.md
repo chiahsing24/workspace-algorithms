@@ -458,4 +458,5 @@ leetcode-1672-RichestCustomerWealth-[array]-[easy]
 leetcode-0412-FizzBuzz-[array]-[easy]
 leetcode-1342-NumberOfStepsToReduceANumberToZero-[math]-[easy]
 leetcode-0876-MiddleOfTheLinkedList-[linkedlist]-[easy]
+leetcode-0383-RansomNote-[map]-[easy]
 ```
