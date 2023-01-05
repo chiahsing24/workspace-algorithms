@@ -464,4 +464,5 @@ leetcode-0392-IsSubsequence-[string]-[easy]
 leetcode-0344-ReverseString-[array]-[easy]
 leetcode-0977-SquaresOfASortedArray-[array]-[easy]
 leetcode-0713-SubarrayProductLessThanK-[array]-[medium]
+leetcode-0643-MaximumAverageSubarratI-[array]-[easy]
 ```
