@@ -466,4 +466,5 @@ leetcode-0977-SquaresOfASortedArray-[array]-[easy]
 leetcode-0713-SubarrayProductLessThanK-[array]-[medium]
 leetcode-0643-MaximumAverageSubarratI-[array]-[easy]
 leetcode-1004-MaxConsecutiveOnesIII-[array]-[medium]
+leetcode-2270-NumberOfWaysToSplitArray-[array]-[medium]
 ```
