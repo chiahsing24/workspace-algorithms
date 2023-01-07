@@ -24,3 +24,19 @@ char[] ar = test.toCharArray();
 Arrays.sort(ar);
 String sorted = String.valueOf(ar);
 ```
+
+### How to convert character array to string?
+
+```
+(ex)
+char[] chars = {'a', 'p', 'p', 'l', 'e'};
+String str = new String(chars);
+
+(ex)
+char[] chars = {'a', 'p', 'p', 'l', 'e'};
+String str = String.valueOf(chars);
+
+(ex)
+char[] chars = {'a', 'p', 'p', 'l', 'e'};
+String str = String.copyValueOf(chars);
+```
