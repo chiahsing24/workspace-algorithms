@@ -470,4 +470,5 @@ leetcode-2270-NumberOfWaysToSplitArray-[array]-[medium]
 leetcode-1413-MinimumValueToGetPositiveStepByStepSum-[array]-[easy]
 leetcode-0557-ReverseWordsInAStringIII-[string]-[easy]
 leetcode-0917-ReverseOnlyLetters-[string]-[easy]
+leetcode-0283-MoveZeroes-[array]-[easy]
 ```
