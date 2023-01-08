@@ -475,4 +475,5 @@ leetcode-2000-ReversePrefixOfWord-[string]-[easy]
 leetcode-0209-MinimumSizeSubarraySum-[array]-[medium]
 leetcode-1456-MaximumNumberOfVowelsInASubstringOfGivenLength-[string]-[medium]
 leetcode-2530-MaximumScoreAfterApplyingKOperations-[heap]-[medium]
+leetcode-2529-MaximumCountOfPositiveIntegerAndNegativeInteger-[array]-[easy]
 ```
