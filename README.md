@@ -485,4 +485,5 @@ leetcode-2531-MakeNumberOfDistinctCharactersEqual-[map]-[medium]
 leetcode-1208-GetEqualSubstringsWithinBudget-[string]-[medium]
 leetcode-1732-FindTheHighestAltitude-[array]-[easy]
 leetcode-0724-FindPivotIndex-[array]-[easy]
+leetcode-0303-RangeSumQueryImmutable-[class]-[easy]
 ```
