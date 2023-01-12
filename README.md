@@ -490,4 +490,5 @@ leetcode-0001-TwoSum-[array]-[easy]
 leetcode-2351-FirstLetterToAppearTwice-[string]-[easy]
 leetcode-1832-CheckIfTheSentenceIsPangram-[string]-[easy]
 leetcode-0268-MissingNumber-[array]-[easy]
+leetcode-2248-IntersectionOfMultipleArrays-[array]-[easy]
 ```
