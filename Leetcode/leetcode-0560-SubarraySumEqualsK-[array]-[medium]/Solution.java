@@ -1,3 +1,8 @@
+/**
+ *  Time Complexity: O(n ** 2)
+ *  Space Complexity: O(n)
+ */
+
 class Solution {
     public int subarraySum(int[] nums, int k) {
         int[] prefix = new int[nums.length];
