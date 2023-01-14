@@ -496,4 +496,5 @@ leetcode-0560-SubarraySumEqualsK-[array]-[medium]
 leetcode-1248-CountNumberOfNiceSubarrays-[array]-[medium]
 leetcode-2225-FindPlayersWithZeroOrOneLosses-[array]-[medium]
 leetcode-1133-LargestUniqueNumber-[array]-[easy]
+leetcode-1189-MaximumNumberOfBalloons-[string]-[array]
 ```
