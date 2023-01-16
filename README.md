@@ -503,4 +503,5 @@ leetcode-1189-MaximumNumberOfBalloons-[string]-[array]
 
 ```
 leetcode-0049-GroupAnagrams-[map]-[medium]
+leetcode-2260-MinimumConsecutiveCardsToPickUp-[array]-[medium]
 ```
