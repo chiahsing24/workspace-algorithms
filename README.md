@@ -498,3 +498,9 @@ leetcode-2225-FindPlayersWithZeroOrOneLosses-[array]-[medium]
 leetcode-1133-LargestUniqueNumber-[array]-[easy]
 leetcode-1189-MaximumNumberOfBalloons-[string]-[array]
 ```
+
+## 01/15/2023 - 01/21/2023
+
+```
+leetcode-0049-GroupAnagrams-[map]-[medium]
+```
