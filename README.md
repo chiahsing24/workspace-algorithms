@@ -506,4 +506,5 @@ leetcode-0049-GroupAnagrams-[map]-[medium]
 leetcode-2260-MinimumConsecutiveCardsToPickUp-[array]-[medium]
 leetcode-2537-CountTheNumberOfGoodSubarrats-[array]-[medium]
 leetcode-2342-MaxSumOfAPairWithEqualSumOfDigits-[array]-[medium]
+leetcode-2352-EqualRowAndColumnsPairs-[array]-[medium]
 ```
