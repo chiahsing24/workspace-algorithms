@@ -509,4 +509,5 @@ leetcode-2342-MaxSumOfAPairWithEqualSumOfDigits-[array]-[medium]
 leetcode-2352-EqualRowAndColumnsPairs-[array]-[medium]
 leetcode-0383-RansomNote-[map]-[easy]
 leetcode-0771-JewelsAndStones-[string]-[easy]
+leetcode-0003-LongestSubstringWithoutRepeatingCharacters-[string]-[medium]
 ```
