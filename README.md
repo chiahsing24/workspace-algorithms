@@ -508,4 +508,5 @@ leetcode-2537-CountTheNumberOfGoodSubarrats-[array]-[medium]
 leetcode-2342-MaxSumOfAPairWithEqualSumOfDigits-[array]-[medium]
 leetcode-2352-EqualRowAndColumnsPairs-[array]-[medium]
 leetcode-0383-RansomNote-[map]-[easy]
+leetcode-0771-JewelsAndStones-[string]-[easy]
 ```
