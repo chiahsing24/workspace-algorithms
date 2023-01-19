@@ -1,0 +1,26 @@
+class Solution:
+    def isPathCrossing(self, path: str) -> bool:
+        visited = set({})
+
+        i = 0
+        j = 0
+        cord = "{i},{j}".format(i = i, j = j)
+        visited.add(cord)
+
+        for step in path:
+            if (step == "E"):
+                j = j + 1
+            elif (step == "W"):
+                j = j - 1
+            elif (step == "S"):
+                i = i + 1
+            else:
+                i = i - 1
+
+            cord = "{i},{j}".format(i = i, j = j)
+            if (cord in visited):
+                return True
+            else:
+                visited.add(cord)
+        
+        return False
