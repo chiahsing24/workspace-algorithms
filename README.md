@@ -514,4 +514,5 @@ leetcode-0217-ContainsDuplicate-[array]-[easy]
 leetcode-1436-DestinationCity-[array]-[easy]
 leetcode-1496-PathCrossing-[string]-[easy]
 leetcode-1748-SumOfUniqueElements-[array]-[easy]
+leetcode-1394-FindLuckyIntegerInAnArray-[array]-[easy]
 ```
