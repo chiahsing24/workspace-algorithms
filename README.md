@@ -513,4 +513,5 @@ leetcode-0003-LongestSubstringWithoutRepeatingCharacters-[string]-[medium]
 leetcode-0217-ContainsDuplicate-[array]-[easy]
 leetcode-1436-DestinationCity-[array]-[easy]
 leetcode-1496-PathCrossing-[string]-[easy]
+leetcode-1748-SumOfUniqueElements-[array]-[easy]
 ```
