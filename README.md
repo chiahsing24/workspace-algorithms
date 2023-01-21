@@ -520,5 +520,5 @@ leetcode-1394-FindLuckyIntegerInAnArray-[array]-[easy]
 leetcode-1207-UniqueNumberOfOccurrences-[array]-[easy]
 leetcode-0451-SortCharactersByFrequency-[string]-[medium]
 leetcode-1512-NumberOfGoodPairs-[array]-[easy]
-leetcode-0567-[string]-[medium]
+leetcode-0567-PermutationInString-[string]-[medium]
 ```
