@@ -477,6 +477,7 @@ leetcode-1456-MaximumNumberOfVowelsInASubstringOfGivenLength-[string]-[medium]
 leetcode-2530-MaximumScoreAfterApplyingKOperations-[heap]-[medium]
 leetcode-2529-MaximumCountOfPositiveIntegerAndNegativeInteger-[array]-[easy]
 leetcode-2531-MakeNumberOfDistinctCharactersEqual-[map]-[medium]
+leetcode-0930-BinarySubarraysWithSum-[array]-[medium]
 ```
 
 ## 01/08/2023 - 01/14/2023
