@@ -522,4 +522,5 @@ leetcode-0451-SortCharactersByFrequency-[string]-[medium]
 leetcode-1512-NumberOfGoodPairs-[array]-[easy]
 leetcode-0567-PermutationInString-[string]-[medium]
 leetcode-0205-IsomorphicStrings-[string]-[easy]
+leetcode-0290-WordPattern-[string]-[easy]
 ```
