@@ -532,4 +532,6 @@ leetcode-0791-CustomSortString-[string]-[medium]
 leetcode-1657-DetermineIfTwoStringsAreClose-[string]-[medium]
 leetcode-0067-AddBinary-[string]-[easy]
 leetcode-0141-LinkedListCycle-[linkedlist]-[easy]
+
+lintcode-0001-A+B-[bit]-[naive]
 ```
