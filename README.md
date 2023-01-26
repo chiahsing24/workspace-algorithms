@@ -536,4 +536,5 @@ leetcode-0876-MiddleOfTheLinkedList-[linkedlist]-[easy]
 
 lintcode-0001-A+B-[bit]-[naive]
 lintcode-0037-Reverse3DigitInteger-[math]-[naive]
+lintcode-0764-CalculateCircumferenceAndArea-[math]-[easy]
 ```
