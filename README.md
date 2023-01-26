@@ -535,4 +535,5 @@ leetcode-0141-LinkedListCycle-[linkedlist]-[easy]
 leetcode-0876-MiddleOfTheLinkedList-[linkedlist]-[easy]
 
 lintcode-0001-A+B-[bit]-[naive]
+lintcode-0037-Reverse3DigitInteger-[math]-[naive]
 ```
