@@ -536,6 +536,7 @@ leetcode-0876-MiddleOfTheLinkedList-[linkedlist]-[easy]
 leetcode-0704-BinarySearch-[array]-[easy]
 leetcode-0374-GuessNumberHigherOrLower-[array]-[easy]
 leetcode-0035-SearchInsertPosition-[array]-[easy]
+leetcode-0083-RemoveDuplicatesfromSortedList-[linkedlist]-[easy]
 
 lintcode-0001-A+B-[bit]-[naive]
 lintcode-0037-Reverse3DigitInteger-[math]-[naive]
