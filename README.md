@@ -534,6 +534,7 @@ leetcode-0067-AddBinary-[string]-[easy]
 leetcode-0141-LinkedListCycle-[linkedlist]-[easy]
 leetcode-0876-MiddleOfTheLinkedList-[linkedlist]-[easy]
 leetcode-0704-BinarySearch-[array]-[easy]
+leetcode-0374-GuessNumberHigherOrLower-[array]-[easy]
 
 lintcode-0001-A+B-[bit]-[naive]
 lintcode-0037-Reverse3DigitInteger-[math]-[naive]
