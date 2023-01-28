@@ -540,6 +540,7 @@ leetcode-0083-RemoveDuplicatesfromSortedList-[linkedlist]-[easy]
 leetcode-0034-FindFirstAndLastPositionOfElementInSortedArray-[array]-[medium]
 leetcode-0153-FindMinimumInRotatedSortedArray-[array]-[medium]
 leetcode-0154-FindMinimumInRotatedSortedArrayII-[array]-[hard]
+leetcode-0033-SearchInRotatedSortedArray-[array]-[medium]
 
 lintcode-0001-A+B-[bit]-[naive]
 lintcode-0037-Reverse3DigitInteger-[math]-[naive]
