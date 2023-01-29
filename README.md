@@ -541,6 +541,7 @@ leetcode-0034-FindFirstAndLastPositionOfElementInSortedArray-[array]-[medium]
 leetcode-0153-FindMinimumInRotatedSortedArray-[array]-[medium]
 leetcode-0154-FindMinimumInRotatedSortedArrayII-[array]-[hard]
 leetcode-0033-SearchInRotatedSortedArray-[array]-[medium]
+leetcode-0081-SearchInRotatedSortedArrayII-[array]-[medium]
 
 lintcode-0001-A+B-[bit]-[naive]
 lintcode-0037-Reverse3DigitInteger-[math]-[naive]
