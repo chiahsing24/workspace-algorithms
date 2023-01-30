@@ -548,3 +548,10 @@ lintcode-0001-A+B-[bit]-[naive]
 lintcode-0037-Reverse3DigitInteger-[math]-[naive]
 lintcode-0764-CalculateCircumferenceAndArea-[math]-[easy]
 ```
+
+
+## 01/29/2023 - 02/04/2023
+
+```
+leetcode-0852-PeakIndexInAMountainArray-[array]-[medium]
+```
