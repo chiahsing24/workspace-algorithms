@@ -556,4 +556,5 @@ leetcode-0852-PeakIndexInAMountainArray-[array]-[medium]
 leetcode-1095-FindInMountainArray-[array]-[hard]
 leetcode-0004-MedianOfTwoSortedArrays-[array]-[hard]
 leetcode-0069-Sqrt(x)-[math]-[easy]
+leetcode-0287-FindTheDuplicateNumber-[array]-[medium]
 ```
