@@ -559,4 +559,5 @@ leetcode-0069-Sqrt(x)-[math]-[easy]
 leetcode-0287-FindTheDuplicateNumber-[array]-[medium]
 leetcode-1300-SumOfMutatedArrayClosestToTarget-[array]-[medium]
 leetcode-0875-KokoEatingBananas-[array]-[medium]
+leetcode-0410-SplitArrayLargestSum-[array]-[hard]
 ```
