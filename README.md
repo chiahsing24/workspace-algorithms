@@ -562,4 +562,5 @@ leetcode-0875-KokoEatingBananas-[array]-[medium]
 leetcode-0410-SplitArrayLargestSum-[array]-[hard]
 leetcode-1011-CapacityToShipPackagesWithinDDays-[array]-[medium]
 leetcode-1482-MinimumNumberOfDaysToMakeMBouquets-[array]-[medium]
+leetcode-cn-0012-小张刷题计划-[array]-[medium]
 ```
