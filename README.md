@@ -575,4 +575,5 @@ leetcode-0283-MoveZeroes-[array]-[easy]
 leetcode-2095-DeleteTheMiddleNodeOfALinkedList-[linkedlist]-[medium]
 leetcode-0019-RemoveNthNodeFromEndOfList-[linkedlist]-[medium]
 leetcode-0082-RemoveDuplicatesFromSortedListII-[linkedlist]-[medium]
+leetcode-1721-SwappingNodesInALinkedList-[linkedlist]-[medium]
 ```
