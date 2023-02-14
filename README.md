@@ -577,3 +577,9 @@ leetcode-0019-RemoveNthNodeFromEndOfList-[linkedlist]-[medium]
 leetcode-0082-RemoveDuplicatesFromSortedListII-[linkedlist]-[medium]
 leetcode-1721-SwappingNodesInALinkedList-[linkedlist]-[medium]
 ```
+
+## 02/12/2023 - 02/18/2023
+
+```
+leetcode-0707-DesignLinkedList-[linkedlist]-[medium]
+```
