@@ -605,5 +605,5 @@ leetcode-0707-DesignLinkedList-[linkedlist]-[medium]
 ## 03/12/2023 - 03/18/2023
 
 ```
-
+leetcode-0035-SearchInsertPosition-[array]-[easy]
 ```
