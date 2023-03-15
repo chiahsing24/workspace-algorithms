@@ -1,0 +1,1 @@
+SELECT DATEDIFF(created_at, '2019-03-26') date_diff FROM courses;

@@ -624,4 +624,5 @@ lintcode-2037-SearchForCourseTitlesAndCourseDatesThroughAugust2020-[sql]-[naive]
 lintcode-2030-QueryTheHoursOfAllCourseCreationTimes-[sql]-[naive]
 lintcode-2046-TheDateTheCourseWasCreatedIsDisplayedInYearMonthDayHourMinuteSecond-[sql]-[naive]
 lintcode-2028-PostponeAllCourseCreationDatesByOneDay-[sql]-[naive]
+lintcode-2029-CalculateTheNumberOfDaysFrom03262019ToTheCourseCreationTime-[sql]-[naive]
 ```
