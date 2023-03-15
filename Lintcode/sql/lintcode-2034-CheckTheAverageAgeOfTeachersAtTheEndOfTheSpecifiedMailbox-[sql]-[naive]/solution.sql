@@ -1,0 +1,1 @@
+SELECT AVG(age) AS 'average_teacher_age' FROM teachers WHERE email LIKE '%@qq.com';

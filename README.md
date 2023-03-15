@@ -613,4 +613,5 @@ lintcode-2020-UpdateOnTheNumberOfStudentsChoosingArtificialIntelligence-[sql]-[n
 lintcode-2004-DeleteAllCoursesUntil2020-[sql]-[naive]
 lintcode-1980-SearchForTheOldestChineseTeacher-[sql]-[naive]
 lintcode-1974-QueryTeacherInformationByEmail-[sql]-[naive]
+lintcode-2034-CheckTheAverageAgeOfTeachersAtTheEndOfTheSpecifiedMailbox-[sql]-[naive]
 ```
