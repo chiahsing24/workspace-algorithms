@@ -1,0 +1,1 @@
+SELECT * FROM teachers WHERE country = "CN" ORDER BY age DESC LIMIT 0, 1;
