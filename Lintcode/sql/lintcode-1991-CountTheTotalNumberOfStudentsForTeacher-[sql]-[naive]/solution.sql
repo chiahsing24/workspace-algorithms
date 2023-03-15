@@ -1,0 +1,1 @@
+SELECT SUM(student_count) select_student_sum FROM courses WHERE teacher_id = 3;
