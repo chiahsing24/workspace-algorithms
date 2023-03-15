@@ -1,0 +1,1 @@
+INSERT INTO teachers(name, email, age, country) VALUES("XiaoFu", "XiaoFu@lintcode.com", 20, "CN");

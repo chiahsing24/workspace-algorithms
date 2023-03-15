@@ -608,4 +608,5 @@ leetcode-0707-DesignLinkedList-[linkedlist]-[medium]
 leetcode-0035-SearchInsertPosition-[array]-[easy]
 
 lintcode-1981-CheckTheNationalityOfAllTeachers-[sq]-[naive]
+lintcode-2021-InsertTeacherInfomationIntoTheSpecifiedColumnOfTheTeachersTable-[sql]-[naive]
 ```
