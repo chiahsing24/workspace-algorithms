@@ -1,0 +1,1 @@
+SELECT TIMESTAMPDIFF(MONTH, created_at, '2020-04-22') MonthDiff FROM courses;
