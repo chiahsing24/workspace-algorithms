@@ -621,4 +621,5 @@ lintcode-1997-CheckTheInformationOfTeachersWhoDoNotHaveEmailAndAreOlderThan20Yea
 lintcode-1985-NumberOfTeachersAged20To28WhoAreChineseAndBritishNationals-[sql]-[naive]
 lintcode-2081-InsertTheCurrentDateIntoTheTable-[sql]-[naive]
 lintcode-2037-SearchForCourseTitlesAndCourseDatesThroughAugust2020-[sql]-[naive]
+lintcode-2030-QueryTheHoursOfAllCourseCreationTimes-[sql]-[naive]
 ```

@@ -1,0 +1,1 @@
+SELECT name, EXTRACT(HOUR FROM created_at) created_hour FROM courses;
