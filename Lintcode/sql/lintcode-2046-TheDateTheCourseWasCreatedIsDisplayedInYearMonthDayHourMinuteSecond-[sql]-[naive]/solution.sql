@@ -1,0 +1,1 @@
+SELECT DATE_FORMAT(created_at, '%Y-%m-%d %H:%i:%s') DATE_FORMAT FROM courses;
