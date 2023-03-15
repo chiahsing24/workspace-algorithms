@@ -623,4 +623,5 @@ lintcode-2081-InsertTheCurrentDateIntoTheTable-[sql]-[naive]
 lintcode-2037-SearchForCourseTitlesAndCourseDatesThroughAugust2020-[sql]-[naive]
 lintcode-2030-QueryTheHoursOfAllCourseCreationTimes-[sql]-[naive]
 lintcode-2046-TheDateTheCourseWasCreatedIsDisplayedInYearMonthDayHourMinuteSecond-[sql]-[naive]
+lintcode-2028-PostponeAllCourseCreationDatesByOneDay-[sql]-[naive]
 ```
