@@ -1,0 +1,1 @@
+SELECT COUNT(*) teacher_count FROM teachers WHERE country IN ('UK', 'CN') AND age BETWEEN 20 AND 28;
