@@ -1,0 +1,1 @@
+UPDATE courses SET student_count = 500 WHERE name = "Artificial Intelligence";
