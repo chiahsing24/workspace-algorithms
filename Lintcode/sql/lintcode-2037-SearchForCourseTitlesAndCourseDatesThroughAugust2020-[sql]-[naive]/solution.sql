@@ -1,0 +1,1 @@
+SELECT name, DATE(created_at) created_date FROM courses WHERE created_at < '2020-08-01';

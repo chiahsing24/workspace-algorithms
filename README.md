@@ -620,4 +620,5 @@ lintcode-1995-CheckTheAverageAgeOfTeachersOver20YearsOld-[sql]-[naive]
 lintcode-1997-CheckTheInformationOfTeachersWhoDoNotHaveEmailAndAreOlderThan20YearsOld-[sql]-[naive]
 lintcode-1985-NumberOfTeachersAged20To28WhoAreChineseAndBritishNationals-[sql]-[naive]
 lintcode-2081-InsertTheCurrentDateIntoTheTable-[sql]-[naive]
+lintcode-2037-SearchForCourseTitlesAndCourseDatesThroughAugust2020-[sql]-[naive]
 ```
