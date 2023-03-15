@@ -1,0 +1,1 @@
+SELECT * FROM teachers WHERE age > 20 AND ISNULL(email);

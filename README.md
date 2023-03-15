@@ -617,4 +617,5 @@ lintcode-2034-CheckTheAverageAgeOfTeachersAtTheEndOfTheSpecifiedMailbox-[sql]-[n
 lintcode-1987-FindTheAgeOfTheOldestChineseTeacher-[sql]-[naive]
 lintcode-1991-CountTheTotalNumberOfStudentsForTeacher-[sql]-[naive]
 lintcode-1995-CheckTheAverageAgeOfTeachersOver20YearsOld-[sql]-[naive]
+lintcode-1997-CheckTheInformationOfTeachersWhoDoNotHaveEmailAndAreOlderThan20YearsOld-[sql]-[naive]
 ```
