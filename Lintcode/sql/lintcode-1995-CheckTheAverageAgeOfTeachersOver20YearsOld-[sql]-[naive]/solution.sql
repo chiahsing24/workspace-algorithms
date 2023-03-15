@@ -1,0 +1,1 @@
+SELECT ROUND(AVG(age), 0) avg_teacher_age FROM teachers WHERE age > 20;
