@@ -1,0 +1,1 @@
+INSERT INTO records (now_time) VALUES (NOW());
