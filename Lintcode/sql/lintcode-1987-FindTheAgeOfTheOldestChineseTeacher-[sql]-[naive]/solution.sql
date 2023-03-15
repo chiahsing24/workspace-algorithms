@@ -1,0 +1,1 @@
+SELECT MAX(age) max_age FROM teachers WHERE country = 'CN';
