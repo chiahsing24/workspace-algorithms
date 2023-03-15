@@ -612,4 +612,5 @@ lintcode-2021-InsertTeacherInfomationIntoTheSpecifiedColumnOfTheTeachersTable-[s
 lintcode-2020-UpdateOnTheNumberOfStudentsChoosingArtificialIntelligence-[sql]-[naive]
 lintcode-2004-DeleteAllCoursesUntil2020-[sql]-[naive]
 lintcode-1980-SearchForTheOldestChineseTeacher-[sql]-[naive]
+lintcode-1974-QueryTeacherInformationByEmail-[sql]-[naive]
 ```
