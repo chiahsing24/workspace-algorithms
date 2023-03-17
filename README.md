@@ -629,4 +629,5 @@ lintcode-2036-CalculateTheNumberOfMonthsDifferenceBetweenTheGivenDateAndTheCreat
 lintcode-2062-QueryTheIdAndNameOfAllCoursesTaughtByTheSpecifiedTeacher-[sql]-[naive]
 lintcode-2051-SearchForTheNamesOfTeachersFromChinaAndTheNamesOfCoursesTheyTaught-[sql]-[naive]
 lintcode-2053-CheckTheNameEmailAndCourseNameOfTheTeacherFromChina-[sql]-[naive]
+lintcode-2055-SearchForAllCourseNamesAndTheirCorrespondingInstructorNamesAndNationalities-[sql]-[naive]
 ```
