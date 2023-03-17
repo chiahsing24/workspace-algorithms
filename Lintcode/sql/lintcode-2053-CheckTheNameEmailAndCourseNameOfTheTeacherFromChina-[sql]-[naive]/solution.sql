@@ -1,0 +1,1 @@
+SELECT c.name course_name, t.name teacher_name, t.email teacher_email FROM teachers t LEFT OUTER JOIN courses c ON c.teacher_id = t.id WHERE t.country = 'CN';
