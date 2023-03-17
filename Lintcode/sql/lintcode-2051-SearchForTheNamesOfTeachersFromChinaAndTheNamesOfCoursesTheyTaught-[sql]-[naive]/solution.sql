@@ -1,0 +1,1 @@
+SELECT c.name course_name, t.name teacher_name FROM teachers t LEFT JOIN courses c ON c.teacher_id = t.id WHERE t.country = 'CN';

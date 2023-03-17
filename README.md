@@ -627,4 +627,5 @@ lintcode-2028-PostponeAllCourseCreationDatesByOneDay-[sql]-[naive]
 lintcode-2029-CalculateTheNumberOfDaysFrom03262019ToTheCourseCreationTime-[sql]-[naive]
 lintcode-2036-CalculateTheNumberOfMonthsDifferenceBetweenTheGivenDateAndTheCreationDateOfAllCoursesInTheCourseSchedule-[sql]-[naive]
 lintcode-2062-QueryTheIdAndNameOfAllCoursesTaughtByTheSpecifiedTeacher-[sql]-[naive]
+lintcode-2051-SearchForTheNamesOfTeachersFromChinaAndTheNamesOfCoursesTheyTaught-[sql]-[naive]
 ```
