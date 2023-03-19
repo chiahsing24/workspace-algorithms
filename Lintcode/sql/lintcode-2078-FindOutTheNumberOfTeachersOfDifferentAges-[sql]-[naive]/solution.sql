@@ -1,0 +1,1 @@
+SELECT age, COUNT(age) AS age_count FROM teachers GROUP BY age ORDER BY age DESC;

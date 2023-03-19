@@ -630,4 +630,5 @@ lintcode-2062-QueryTheIdAndNameOfAllCoursesTaughtByTheSpecifiedTeacher-[sql]-[na
 lintcode-2051-SearchForTheNamesOfTeachersFromChinaAndTheNamesOfCoursesTheyTaught-[sql]-[naive]
 lintcode-2053-CheckTheNameEmailAndCourseNameOfTheTeacherFromChina-[sql]-[naive]
 lintcode-2055-SearchForAllCourseNamesAndTheirCorrespondingInstructorNamesAndNationalities-[sql]-[naive]
+lintcode-2078-FindOutTheNumberOfTeachersOfDifferentAges-[sql]-[naive]
 ```
