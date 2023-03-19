@@ -1,0 +1,1 @@
+SELECT t.name teacher_name, COUNT(c.name) course_count FROM teachers t LEFT OUTER JOIN courses c ON t.id = c.teacher_id GROUP BY t.name ORDER BY course_count DESC, teacher_name ASC;

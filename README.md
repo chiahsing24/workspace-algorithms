@@ -631,4 +631,5 @@ lintcode-2051-SearchForTheNamesOfTeachersFromChinaAndTheNamesOfCoursesTheyTaught
 lintcode-2053-CheckTheNameEmailAndCourseNameOfTheTeacherFromChina-[sql]-[naive]
 lintcode-2055-SearchForAllCourseNamesAndTheirCorrespondingInstructorNamesAndNationalities-[sql]-[naive]
 lintcode-2078-FindOutTheNumberOfTeachersOfDifferentAges-[sql]-[naive]
+lintcode-2082-StatisticsOnTheNumberOfCoursesTaughtByEachTeacher-[sql]-[easy]
 ```
