@@ -643,7 +643,6 @@ lintcode-2082-StatisticsOnTheNumberOfCoursesTaughtByEachTeacher-[sql]-[easy]
 ## 03/26/2023 - 04/01/2023
 
 ```
-lintcode-2076-SearchForTeacherInformationBasedOnNationalAverageAge-[sql]-[medium]
 
 ```
 
@@ -656,5 +655,6 @@ lintcode-2076-SearchForTeacherInformationBasedOnNationalAverageAge-[sql]-[medium
 ## 04/09/2023 - 04/15/2023
 
 ```
-
+lintcode-2076-SearchForTeacherInformationBasedOnNationalAverageAge-[sql]-[medium]
+lintcode-2060-SearchForTheNameOfTheTeacherForTheBigDataCourse-[sql]-[easy]
 ```
