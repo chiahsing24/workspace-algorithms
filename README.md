@@ -633,3 +633,28 @@ lintcode-2055-SearchForAllCourseNamesAndTheirCorrespondingInstructorNamesAndNati
 lintcode-2078-FindOutTheNumberOfTeachersOfDifferentAges-[sql]-[naive]
 lintcode-2082-StatisticsOnTheNumberOfCoursesTaughtByEachTeacher-[sql]-[easy]
 ```
+
+## 03/19/2023 - 03/25/2023
+
+```
+
+```
+
+## 03/26/2023 - 04/01/2023
+
+```
+lintcode-2076-SearchForTeacherInformationBasedOnNationalAverageAge-[sql]-[medium]
+
+```
+
+## 04/02/2023 - 04/08/2023
+
+```
+
+```
+
+## 04/09/2023 - 04/15/2023
+
+```
+
+```
