@@ -658,3 +658,16 @@ lintcode-2082-StatisticsOnTheNumberOfCoursesTaughtByEachTeacher-[sql]-[easy]
 lintcode-2076-SearchForTeacherInformationBasedOnNationalAverageAge-[sql]-[medium]
 lintcode-2060-SearchForTheNameOfTheTeacherForTheBigDataCourse-[sql]-[easy]
 ```
+
+## 04/16/2023 - 04/22/2023
+
+```
+
+```
+
+## 04/23/2023 - 04/29/2023
+
+```
+leetcode-0371-SumOfTwoIntegers-[bit]-[medium]
+
+```
