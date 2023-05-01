@@ -671,3 +671,9 @@ lintcode-2060-SearchForTheNameOfTheTeacherForTheBigDataCourse-[sql]-[easy]
 leetcode-0371-SumOfTwoIntegers-[bit]-[medium]
 
 ```
+
+## 04/30/2023 - 05/06/2023
+
+```
+leetcode-0050-Pow(x,n)-[math]-[medium]
+```

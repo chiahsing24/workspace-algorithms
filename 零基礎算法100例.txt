@@ -5,4 +5,4 @@ Chapter 1: 課程導覽
 Chapter 2: 4日熱身訓練
     Day 1: 函數
         例題:
-            lc0371
+            lc0371, lc0050
