@@ -677,4 +677,5 @@ leetcode-0371-SumOfTwoIntegers-[bit]-[medium]
 ```
 leetcode-0050-Pow(x,n)-[math]-[medium]
 leetcode-0069-Sqrt(x)-[math]-[easy]
+leetcode-0231-PowerOfTwo-[math]-[easy]
 ```
