@@ -679,4 +679,5 @@ leetcode-0050-Pow(x,n)-[math]-[medium]
 leetcode-0069-Sqrt(x)-[math]-[easy]
 leetcode-0231-PowerOfTwo-[math]-[easy]
 leetcode-0326-PowerOfThree-[math]-[easy]
+leetcode-0342-PowerOfFour-[math]-[easy]
 ```
