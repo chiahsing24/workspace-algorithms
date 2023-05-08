@@ -681,4 +681,5 @@ leetcode-0231-PowerOfTwo-[math]-[easy]
 leetcode-0326-PowerOfThree-[math]-[easy]
 leetcode-0342-PowerOfFour-[math]-[easy]
 leetcode-1492-TheKthFactorOfN-[math]-[medium]
+leetcode-0367-ValidPerfectSquare-[math]-[easy]
 ```
