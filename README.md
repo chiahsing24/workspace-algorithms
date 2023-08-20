@@ -777,5 +777,5 @@ leetcode-0283-MoveZeroes-[array]-[easy]
 ## 08/20/2023 - 08/26/2023
 
 ```
-
+leetcode-0027-RemoveElement-[array]-[easy]
 ```
