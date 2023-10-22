@@ -6,4 +6,5 @@
     AlgoExpert:
         algoexpert-BubbleSort-[array]-[easy]
         algoexpert-SelectionSort-[array]-[easy]
+        algoexpert-InsertionSort-[array]-[easy]
 ```
