@@ -8,3 +8,10 @@
         algoexpert-SelectionSort-[array]-[easy]
         algoexpert-InsertionSort-[array]-[easy]
 ```
+
+### 10/23/2023 - 10/29/2023
+
+```
+    AlgoExpert:
+        algoexpert-Class Photo-[array]-[easy]
+```
