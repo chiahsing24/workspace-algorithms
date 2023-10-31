@@ -17,3 +17,10 @@
         algoexpert-NonConstructibleChange-[array]-[easy]
         algoexpert-NodeDepths-[tree]-[easy]
 ```
+
+### 10/30/2023 - 11/05/2023
+
+```
+    AlgoExpert:
+        algoexpert-BinarySearch-[array]-[easy]
+```
