@@ -23,4 +23,7 @@
 ```
     AlgoExpert:
         algoexpert-BinarySearch-[array]-[easy]
+
+    Leetcode:
+        leetcode-實踐動態數組-[array]-[easy]
 ```
