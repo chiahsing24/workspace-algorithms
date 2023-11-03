@@ -30,4 +30,5 @@
         leetcode-0020-ValidParentheses-[string]-[easy]
         leetcode-0021-MergeTwoSortedLists-[linkedlist]-[easy]
         leetcode-0121-BestTimeToBuyAndSellStock-[array]-[easy]
+        leetcode-0125-ValidPalindrome-[string]-[easy]
 ```
