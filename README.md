@@ -28,4 +28,5 @@
         leetcode-實踐動態數組-[array]-[easy]
         leetcode-0001-TwoSum-[array]-[easy]
         leetcode-0020-ValidParentheses-[string]-[easy]
+        leetcode-0021-MergeTwoSortedLists-[linkedlist]-[easy]
 ```
