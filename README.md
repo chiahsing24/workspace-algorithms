@@ -33,4 +33,5 @@
         leetcode-0125-ValidPalindrome-[string]-[easy]
         leetcode-0226-InvertBinaryTree-[tree]-[easy]
         leetcode-0242-ValidAnagram-[array]-[easy]
+        leetcode-0704-BinarySearch-[array]-[easy]
 ```
