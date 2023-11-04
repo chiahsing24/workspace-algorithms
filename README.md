@@ -32,4 +32,5 @@
         leetcode-0121-BestTimeToBuyAndSellStock-[array]-[easy]
         leetcode-0125-ValidPalindrome-[string]-[easy]
         leetcode-0226-InvertBinaryTree-[tree]-[easy]
+        leetcode-0242-ValidAnagram-[array]-[easy]
 ```
