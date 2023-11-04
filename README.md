@@ -35,4 +35,5 @@
         leetcode-0242-ValidAnagram-[array]-[easy]
         leetcode-0704-BinarySearch-[array]-[easy]
         leetcode-0733-FloodFill-[array]-[easy]
+        leetcode-0235-LowestCommonAncestorOfABinarySearchTree-[tree]-[medium]
 ```
