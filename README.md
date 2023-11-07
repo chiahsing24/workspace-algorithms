@@ -45,4 +45,5 @@
         leetcode-0225-ImplementStackUsingQueues-[stack]-[easy]
         leetcode-0110-BalancedBinaryTree-[tree]-[easy]
         leetcode-0622-DesignCircularQueue-[queue]-[medium]
+        leetcode-0141-LinkedListCycle-[linkedlist]-[easy]
 ```
