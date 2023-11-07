@@ -36,6 +36,7 @@
         leetcode-0704-BinarySearch-[array]-[easy]
         leetcode-0733-FloodFill-[array]-[easy]
         leetcode-0235-LowestCommonAncestorOfABinarySearchTree-[tree]-[medium]
+        leetcode-0232-ImplementQueueUsingStacks-[stack]-[easy]
 ```
 
 ### 11/06/2023 - 11/12/2023
