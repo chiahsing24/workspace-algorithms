@@ -49,4 +49,5 @@
         leetcode-0141-LinkedListCycle-[linkedlist]-[easy]
         leetcode-0278-FirstBadVersion-[iterative]-[easy]
         leetcode-0383-RansomNote-[map]-[easy]
+        leetcode-0070-ClimbingStairs-[math]-[easy]
 ```
