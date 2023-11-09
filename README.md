@@ -51,4 +51,5 @@
         leetcode-0383-RansomNote-[map]-[easy]
         leetcode-0070-ClimbingStairs-[math]-[easy]
         leetcode-0409-LongestPalindrome-[string]-[easy]
+        leetcode-0206-ReverseLinkedList-[linkedlist]-[easy]
 ```
