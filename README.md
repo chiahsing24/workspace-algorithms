@@ -53,4 +53,5 @@
         leetcode-0409-LongestPalindrome-[string]-[easy]
         leetcode-0206-ReverseLinkedList-[linkedlist]-[easy]
         leetcode-0169-MajorityElement-[array]-[easy]
+        leetcode-0067-AddBinary-[string]-[easy]
 ```
