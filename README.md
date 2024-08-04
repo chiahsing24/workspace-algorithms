@@ -5,6 +5,7 @@
 ```
     AlgoExpert:
         algoexpert-ProductSum-[array]-[easy]
+        algoexpert-Permutations-[array]-[medium]
 
     lintcode:
 

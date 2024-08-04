@@ -1,3 +1,11 @@
+const DIFFICULTY = {
+  NAIVE: "naive",
+  EASY: "easy",
+  MEDIUM: "medium",
+  HARD: "hard",
+  SUPERHARD: "super hard",
+};
+
 const LEVEL_OF_UNDERSTANDING = {
   NOVICE: "This is new to me and I can't figure this out yet",
   APPRENTICE: "I need more practice, I'm still confused.",
@@ -20,7 +28,7 @@ let new_ladder = {
       lintcode: [
         {
           question_no: 771,
-          difficulty: "easy",
+          difficulty: DIFFICULTY.EASY,
           first_succ_submit: true,
           level_of_understanding: LEVEL_OF_UNDERSTANDING.EXPERT,
           preference: LEVEL_OF_PREFERENCE.LIKE,
@@ -43,7 +51,7 @@ let new_ladder = {
           title: "Nth Fibonacci",
           url: "https://www.algoexpert.io/questions/nth-fibonacci",
           tags: ["dfs"],
-          related_questions: ["Product Sum"],
+          related_questions: ["Product Sum", "Permutations"],
           ladder: [],
           note: "",
         },
@@ -56,7 +64,20 @@ let new_ladder = {
           title: "Product Sum",
           url: "https://www.algoexpert.io/questions/product-sum",
           tags: ["dfs"],
-          related_questions: ["Nth Fibonacci"],
+          related_questions: [],
+          ladder: [],
+          note: "",
+        },
+        {
+          question_no: 0,
+          difficulty: DIFFICULTY.MEDIUM,
+          first_succ_submit: false,
+          level_of_understanding: LEVEL_OF_UNDERSTANDING.APPRENTICE,
+          preference: LEVEL_OF_PREFERENCE.LOVE,
+          title: "Permutations",
+          url: "https://www.algoexpert.io/questions/permutations",
+          tags: ["dfs"],
+          related_questions: [],
           ladder: [],
           note: "",
         },
