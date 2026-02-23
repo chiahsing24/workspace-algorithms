@@ -1,14 +1,19 @@
 # Practice Tracking History
 
-### 07/29/2024 - 08/04/2024
+## Categories
+
+# Two Pointers
 
 ```
-    AlgoExpert:
-        algoexpert-ProductSum-[array]-[easy]
-        algoexpert-Permutations-[array]-[medium]
-        algoexpert-Powerset-[array]-[medium]
-
     lintcode:
+        lintcode-0102-LinkedListCycle-[linkedlist]-[medium]
+```
+
+## Problems Tracking
+
+```
+    lintcode:
+        lintcode-0102-LinkedListCycle-[linkedlist]-[medium]
 
     leetcode:
 
