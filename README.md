@@ -7,6 +7,8 @@
 ```
     lintcode:
         lintcode-0102-LinkedListCycle-[linkedlist]-[medium]
+        lintcode-0103-LinkedListCycleII-[linkedlist]-[hard]
+        lintcode-0228-MiddleOfLinkedList-[linkedlist]-[naive]
 ```
 
 ## Problems Tracking
