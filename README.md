@@ -30,6 +30,7 @@
 ```
     lintcode:
         lintcode-0228-MiddleOfLinkedList-[linkedlist]-[naive]
+        lintcode-1609-MiddleOfTheLinkedList-[linkedlist]-[easy]
 
     leetcode:
 
